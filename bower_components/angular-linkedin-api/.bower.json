@@ -1,0 +1,34 @@
+{
+  "name": "angular-linkedin-api",
+  "authors": [
+    "Burhan COKCA"
+  ],
+  "description": "Angular linkedin module is an interface to linkedin javascript apis for angular",
+  "main": "./linkedin-api-module.js",
+  "keywords": [
+    "angular",
+    "linkedin",
+    "api",
+    "module",
+    "implementation"
+  ],
+  "license": "MIT",
+  "homepage": "burhancokca.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "8660bd0567",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "8660bd0567a3e99f7fefab29af7bfb4518ad0407"
+  },
+  "_source": "https://github.com/bcokca/angular-linkedin-api.git",
+  "_target": "*",
+  "_originalSource": "angular-linkedin-api",
+  "_direct": true
+}

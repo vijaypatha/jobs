@@ -1,0 +1,65 @@
+
+
+.navbar-brand{
+  letter-spacing: 4px;
+  font-size: 1.5em;
+  font-weight:bold;
+}
+img{
+  padding: 5px;
+  width: auto;
+}
+.images{
+  padding-bottom: 80px;
+  padding-top: 70px;
+
+}
+
+.intro{
+
+}
+
+.intro h1{
+  text-align: center;
+  letter-spacing: 6px;
+  font-weight: 400;
+}
+.intro ol li{
+  text-align: center;
+  display: block;
+  font-weight: 400;
+  font-size: 1.5em;
+}
+
+.flowchart{
+  display: flex;
+  flex-flow: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding-bottom: 60px;
+}
+
+figcaption{
+  font-size: 18px;
+  padding-bottom: 30px;
+}
+
+.singup{
+  display: flex;
+  flex-flow: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding-bottom: 50px;
+
+
+}
+
+.icons{
+  display: flex;
+  flex-flow: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  font-size: 2.5em;
+  padding-top: 20px;
+  border-top: 1px solid lightgray;
+}

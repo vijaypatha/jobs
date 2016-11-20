@@ -1,0 +1,12 @@
+.override { box-shadow : none!important; }
+.w3-hover-shadow:hover{
+  box-shadow: none !important;
+}
+img{
+  width: 35px;
+}
+body { padding-top: 45px; }
+.w3-container{
+  width: 500px;
+  box-shadow: none;
+}
